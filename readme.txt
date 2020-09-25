@@ -1,0 +1,3 @@
+使用方法：
+1.首先准备在同一局域网下的2部安卓设备，分别运行ProjectionScreenPlayer和https://github.com/duoluo9/ProjectionScreenSender
+2.在Sender端输入Player端的ip地址即可，运行Sender端的设备必须是Android5.0+
